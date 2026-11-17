@@ -13,6 +13,8 @@
       url: processes/releases/testing/smoke_test.md
     - title: Android releases
       url: processes/releases/android.md
+    - title: System add-on releases
+      url: processes/releases/system_addon.md
     - title: Yearly ESR setup
       url: processes/releases/yearly_esr.md
     - title: Monthly merges
