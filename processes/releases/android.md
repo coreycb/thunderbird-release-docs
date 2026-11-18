@@ -1,5 +1,9 @@
 # Android releases
 
+For full details about the Android release process, see
+[RELEASE.md](https://github.com/thunderbird/thunderbird-android/blob/main/docs/release/RELEASE.md)
+in the thunderbird-android repo.
+
 ## GitHub Actions
 
 1. Merge Any Uplifts
